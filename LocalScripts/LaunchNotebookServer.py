@@ -42,7 +42,6 @@ from AWSCredentials import *
 ami='ami-c15c44a8'             # Image configured for big data class
 # AMI name: IPython2.0 . These two lines last updated 4/17/2014
 
-
 # ### Definitions of procedures ###
 import boto.ec2
 import time
